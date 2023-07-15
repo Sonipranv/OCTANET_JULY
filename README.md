@@ -1,2 +1,2 @@
-# OCTANET_JUNE
-TASK-1: design a landing page
+# OCTANET_july
+OCTANET INTERNSHIP TASKS
